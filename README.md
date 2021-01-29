@@ -218,7 +218,7 @@ One Player, Hard Mode, Game ends because Hunter is eaten by Wumpus
 ## Appendix
 ### UML design
 <p align="center">
-  <img height="1280" src="https://github.com/0zz10/HuntTheWumpus_MVC/blob/master/res/HW6_design.png?raw=true">
+  <img height="1500" src="https://github.com/0zz10/HuntTheWumpus_MVC/blob/master/res/HW6_design.png?raw=true">
 </p>
 
 ### Demo
