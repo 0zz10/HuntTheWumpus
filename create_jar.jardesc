@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="HW6/HW6.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/HW6/create_jar.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=HW6/src&lt;controller{GameDriver.java[GameDriver" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/HW6/HW6_GUI_Testing.pdf"/>
+        <javaElement handleIdentifier="=HW6/test"/>
+        <file path="/HW6/.project"/>
+        <file path="/HW6/.DS_Store"/>
+        <javaElement handleIdentifier="=HW6/src"/>
+        <folder path="/HW6/res"/>
+        <file path="/HW6/.classpath"/>
+        <file path="/HW6/create_jar.jardesc"/>
+        <file path="/HW6/HW6.zip"/>
+    </selectedElements>
+</jardesc>

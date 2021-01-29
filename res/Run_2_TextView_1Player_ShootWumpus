@@ -1,0 +1,176 @@
+java -jar HW6.jar --text
+Welcome to Hunt The Wumpus Game!
+*** Final Version ***
+-- Game Mode configuration --
+1-Player or 2-Player? (1 or 2)
+1
+-- Map property configuration --
+How many rows of this maze? 
+10
+How many columns of this maze? 
+10
+How many remaining walls of this maze? 
+3
+Preferable cave index to start? 
+Choose any index between 1 and 100
+50
+-- Difficulty configuration --
+How many pits located at this map? 
+3
+How many superbats located at this map? 
+3
+Preferable number of arrows to start? 
+10
+Game synchronizing...
+
+
+You are in Cave 50
+Tunnel Leads to: [Cave 49, Cave 60, Cave 40]
+Shoot or Move (S-M)?
+M
+Where to?
+60
+
+You are in Cave 60
+Tunnel Leads to: [Cave 59, Cave 70, Cave 50]
+Shoot or Move (S-M)?
+M
+Where to?
+70
+
+You are in Cave 70
+Tunnel Leads to: [Cave 69, Cave 60, Cave 80]
+Shoot or Move (S-M)?
+M
+Where to?
+80
+
+You are in Cave 80
+Tunnel Leads to: [Cave 70, Cave 90, Cave 79]
+Shoot or Move (S-M)?
+M
+Where to?
+90
+
+You are in Cave 90
+Tunnel Leads to: [Cave 89, Cave 99, Cave 80]
+Shoot or Move (S-M)?
+M
+Where to?
+89
+
+You are in Cave 89
+Tunnel Leads to: [Cave 79, Cave 90, Cave 99, Cave 88]
+Shoot or Move (S-M)?
+M
+Where to?
+79
+
+You are in Cave 79
+Tunnel Leads to: [Cave 69, Cave 89, Cave 78, Cave 80]
+Shoot or Move (S-M)?
+M
+Where to?
+80
+
+You are in Cave 80
+Tunnel Leads to: [Cave 70, Cave 90, Cave 79]
+Shoot or Move (S-M)?
+M
+Where to?
+79
+
+You are in Cave 79
+Tunnel Leads to: [Cave 69, Cave 89, Cave 78, Cave 80]
+Shoot or Move (S-M)?
+M
+Where to?
+78
+
+You are in Cave 78
+Tunnel Leads to: [Cave 79, Cave 68, Cave 77, Cave 88]
+Snatch -- you are grabbed by superbats and ...
+You are in Cave 45
+Tunnel Leads to: [Cave 35, Cave 44, Cave 55, Cave 46]
+Shoot or Move (S-M)?
+M
+Where to?
+55
+
+You feel a cold wind blowing!
+You are in Cave 55
+Tunnel Leads to: [Cave 56, Cave 65, Cave 45, Cave 54]
+Shoot or Move (S-M)?
+M
+Where to?
+45
+
+You are in Cave 45
+Tunnel Leads to: [Cave 35, Cave 44, Cave 55, Cave 46]
+Shoot or Move (S-M)?
+M
+Where to?
+44
+
+You feel a cold wind blowing!
+You are in Cave 44
+Tunnel Leads to: [Cave 34, Cave 45, Cave 54, Cave 43]
+Shoot or Move (S-M)?
+M
+Where to?
+34
+
+You smell a Wumpus!
+You are in Cave 34
+Tunnel Leads to: [Cave 35, Cave 33, Cave 24, Cave 44]
+Shoot or Move (S-M)?
+M
+Where to?
+
+Not valid cave index move to
+Where to?
+M
+Not valid cave index move to
+Where to?
+24
+
+You are in Cave 24
+Tunnel Leads to: [Cave 25, Cave 14, Cave 23, Cave 34]
+Shoot or Move (S-M)?
+M
+Where to?
+34
+
+You smell a Wumpus!
+You are in Cave 34
+Tunnel Leads to: [Cave 35, Cave 33, Cave 24, Cave 44]
+Shoot or Move (S-M)?
+S
+No. of caves (1-5)?
+1 
+Toward cave?
+4
+Not valid cave index shoot towards
+Toward cave?
+
+Not valid cave index shoot towards
+Toward cave?
+44
+
+Missed.
+Your has 9 more arrows to Shoot
+
+You smell a Wumpus!
+You are in Cave 34
+Tunnel Leads to: [Cave 35, Cave 33, Cave 24, Cave 44]
+Shoot or Move (S-M)?
+S
+No. of caves (1-5)?
+1
+Toward cave?
+33
+Hee hee hee, you got the wumpus!
+Next time you won't be so lucky
+
+Play Again? (Y/N)
+
