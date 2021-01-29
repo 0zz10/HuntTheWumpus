@@ -16,7 +16,7 @@
 
 ## Features
 <p align="center">
-  <img height="500" src="https://github.com/0zz10/HuntTheWumpus_MVC/blob/master/res/HW6_design.png?raw=true">
+  <img height="2000" src="https://github.com/0zz10/HuntTheWumpus_MVC/blob/master/res/HW6_design.png?raw=true">
 </p>
 ### Model
 * Build the rooms using Kruskal algorithm and distinguish between caves and tunnels.
