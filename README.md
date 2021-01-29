@@ -15,9 +15,7 @@
 <br>
 
 ## Features
-<p align="center">
-  <img height="2000" src="https://github.com/0zz10/HuntTheWumpus_MVC/blob/master/res/HW6_design.png?raw=true">
-</p>
+
 ### Model
 * Build the rooms using Kruskal algorithm and distinguish between caves and tunnels.
 * Be able to set 1 cave as the Wumpus. 
@@ -134,9 +132,6 @@ S
 ```
 <br>
 
-<p align="center">
-  <img height="500" src="https://github.com/0zz10/HuntTheWumpus_MVC/blob/master/Final_Demo_HTW.gif?raw=true">
-</p>
 
 ## Design/Model Changes
 Please refer to HW6_design.png file for updated UML design, the previous design can be found as HW6_design_before.png.
@@ -217,7 +212,21 @@ One Player, Hard Mode, Game ends because Hunter is eaten by Wumpus
 
 <br>
 
-## References
+
+
+
+## Appendix
+### UML design
+<p align="center">
+  <img height="2000" src="https://github.com/0zz10/HuntTheWumpus_MVC/blob/master/res/HW6_design.png?raw=true">
+</p>
+
+### Demo
+<p align="center">
+  <img height="500" src="https://github.com/0zz10/HuntTheWumpus_MVC/blob/master/Final_Demo_HTW.gif?raw=true">
+</p>
+
+### References
 * [Course Materials in Modules](https://northeastern.instructure.com/courses/25755/modules)
 * [Java GUI video](https://www.youtube.com/watch?v=Kmgo00avvEw)
 * [Icons Copyright]
