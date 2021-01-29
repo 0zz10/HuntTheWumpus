@@ -1,4 +1,4 @@
-# Homework 6 -- HTW MVC Design
+# HTW MVC Design
 <br>
 
 > This project is further implemented as full MVC design that can perform Hunt The Wumpus game. TextView or GUI can be generated respectively to play the game.
@@ -61,14 +61,14 @@
 
 ```bash
 # run the driver function as user and run the gui version of the game.
-java -jar HW6.jar --gui
+java -jar HTW.jar --gui
 
 # enjoy your game!
 ```
 
 ```bash
 # run the driver function as user and run the text-based version of the game.
-java -jar HW6.jar --text
+java -jar HTW.jar --text
 
 # Indicate Game Mode:
 # One Player -- 1, Two Players -- 2
