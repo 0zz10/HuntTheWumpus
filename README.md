@@ -15,6 +15,9 @@
 <br>
 
 ## Features
+<p align="center">
+  <img height="500" src="https://github.com/0zz10/HuntTheWumpus_MVC/blob/master/res/HW6_design.png?raw=true">
+</p>
 ### Model
 * Build the rooms using Kruskal algorithm and distinguish between caves and tunnels.
 * Be able to set 1 cave as the Wumpus. 
@@ -130,6 +133,10 @@ S
 # Enjoy your play!
 ```
 <br>
+
+<p align="center">
+  <img height="500" src="https://github.com/0zz10/HuntTheWumpus_MVC/blob/master/Final_Demo_HTW.gif?raw=true">
+</p>
 
 ## Design/Model Changes
 Please refer to HW6_design.png file for updated UML design, the previous design can be found as HW6_design_before.png.
